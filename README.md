@@ -11,7 +11,9 @@
 - 부산동아대학교 화학공학과 졸업(2014.03 ~ 2019.08)
 - SQLD 자격증 보유
 <br>
+
 <hr>
+
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"><b> Techs that I've used at least once </b></p>
@@ -33,18 +35,17 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=Slack&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>&nbsp 
 </p>
-
-<br>
-<hr>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerJhee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerJhee&show_icons=true&theme=material-palenight)
-
 <br>
 <h3 align="center">👇 How to reach me? 👇</h3>
 <p align="center">
   <a href="mailto:0zhee0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
+<hr>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerJhee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerJhee&show_icons=true&theme=radical)
+
 
