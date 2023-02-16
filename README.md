@@ -12,6 +12,10 @@
 - SQLD 자격증 보유
 <br>
 
+> [🔗수업기록용GitHub🔗](https://github.com/0zhee0/0zhee0/blob/main/README.md) 
+
+<br>
+
 <hr>
 
 <br>
